@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580045400155.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2204516033",
+    "id" : "DA86C05A",
+    "lastKnownWriteTime" : 1580050905,
+    "last_content_update" : 1580050905934,
+    "path" : "~/Projects/Bali_Trip/show poi.R",
+    "project_path" : "show poi.R",
+    "properties" : {
+        "cursorPosition" : "6,65",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
